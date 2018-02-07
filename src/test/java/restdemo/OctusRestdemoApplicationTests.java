@@ -10,7 +10,7 @@ import restdemo.OctusRestdemoApplication;
 
 /**
  * 
- * @author leonardlu
+ * @author jugul.mishra
  *
  */
 

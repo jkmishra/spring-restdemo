@@ -4,7 +4,7 @@ import org.springframework.data.annotation.Id;
 
 /**
  * 
- * @author leonardlu
+ * @author jugul.mishra
  * Wrapper Object for Plain JSON strings
  *
  */

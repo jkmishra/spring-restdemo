@@ -17,7 +17,7 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Res
 
 /**
  * 
- * @author leonardlu
+ * @author jugul.mishra
  *
  */
 
